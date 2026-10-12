@@ -1,4 +1,4 @@
 # Practice\_git
 
-Nova This contains the github \& git 
+&#x20;This my repository contains the github \& git
 
