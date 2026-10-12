@@ -1,0 +1,2 @@
+Nova
+Skills with java-script, python, HTML,CSS and the tools git, githu, postman, mongodb
